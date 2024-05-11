@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"><img src="https://github.com/DeveloprrSourabh/Developrrsourabh/assets/114208070/3e3af1df-d6a1-4a02-b509-a6a4dde859e9" />
+<p align="left"><img style="width:100px" src="https://github.com/DeveloprrSourabh/Developrrsourabh/assets/114208070/a8b96614-ffb0-4fb8-9c74-8342e961c449" />
+
+
 
  </p>
 
