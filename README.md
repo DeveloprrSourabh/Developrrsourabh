@@ -1,9 +1,28 @@
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developrrsourabh&label=Profile%20views&color=0e75b6&style=flat" alt="developrrsourabh" /> </p>
+<p align="left"> <svg xmlns="http://www.w3.org/2000/svg" width="110.2" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <mask id="a">
+        <rect width="110.2" height="20" rx="3" fill="#fff"/>
+    </mask>
+    <g mask="url(#a)">
+        <rect width="79.2" height="20" fill="#555"/>
+        <rect x="79.2" width="31" height="20" fill="#0e75b6"/>
+        <rect width="110.2" height="20" fill="url(#b)"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <text x="40.6" y="15" fill="#010101" fill-opacity=".3">Profile views</text>
+        <text x="40.6" y="14">Profile views</text>
+        <text x="93.7" y="15" fill="#010101" fill-opacity=".3">90K/text>
+        <text x="93.7" y="14">152</text>
+    </g>
+</svg> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?88888" alt="developrrsourabh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developrrsourabh" alt="developrrsourabh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
